@@ -25,6 +25,9 @@
   2. Values with high collinearity.
   3. Removing columns having more than 96% similar values.
   4. Columns that have least correlation with the columns.
+  
+  ![](/Images/c1.png)
+  
 - Data was reshaped with 1340 rows and 35 columns.
 
 ## Data Scaling:
