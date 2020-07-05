@@ -37,4 +37,4 @@
 ## Data Modeling:
   
   - We use **XGBoostClassifier** to model our data with hyper-parameter tuning.
-  - Model gets us an **accuracy score of 87% and log_loss of 4.38.**
+  - Model gets us an **accuracy score of 87.30% and log_loss of 4.38.**
