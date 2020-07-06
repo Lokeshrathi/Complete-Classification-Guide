@@ -1,4 +1,4 @@
-# IBM-HR-Attriction-Analysis-and-Prediction
+# IBM-HR-Attrition-Analysis-and-Prediction
 - In this Notebook, we try to analyse and predict on *Attriction* on the IBM employee Dataset. 
 - Dataset has 1470 rows and 35 columns.
 
